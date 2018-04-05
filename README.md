@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fklren0312%2Fstm32_wifi.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fklren0312%2Fstm32_wifi?ref=badge_shield)
+
 >代码地址：https://github.com/klren0312/stm32_wifi
 
 使用的器件：
@@ -49,3 +51,7 @@
  - [搭建简易的物联网服务端和客户端-redis+websocket（二十五）](http://www.jianshu.com/p/10ac501b36fd)
  - [搭建简易的物联网服务端和客户端-第四次增补（二十六）](http://www.jianshu.com/p/81a859e931d7)
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fklren0312%2Fstm32_wifi.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fklren0312%2Fstm32_wifi?ref=badge_large)
